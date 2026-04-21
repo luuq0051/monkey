@@ -484,7 +484,7 @@ MIT
 ## 🔗 Links
 
 - **GitHub:** https://github.com/luuq0051/monkey
-- **Live Server:** https://3000-4ec40ecf49e1a744.monkeycode-ai.online
+- **Live Server:** https://3000-c2222d8818e112cf.monkeycode-ai.online
 - **Minimax API:** https://cherry-studio-api.monkeycode-ai.online
 
 ---
